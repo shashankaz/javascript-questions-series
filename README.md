@@ -1,4 +1,4 @@
-# javascript-questions-series
+# JavaScript Questions
 
 **Here are the 50 JavaScript interview questions for 2024**
 
